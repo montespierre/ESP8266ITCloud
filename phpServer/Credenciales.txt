@@ -10,7 +10,7 @@ wbsite: https://gorgojo232.000webhostapp.com/
 -------------------------
 database name: gorgojo
 db user: gorgojo232
-db p: Peru2322715.
+db p: PaisTELFHUACHO.
 dbname: id17105432_gorgojo
 dbuser: id17105432_gorgojo232
 dbhost: localhost

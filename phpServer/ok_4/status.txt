@@ -1,0 +1,5 @@
+read_all ok
+db_connect ok
+dbconfig ok
+insert ok
+specific ok
